@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.profile {
+    text-align: left;
+    width: 600px;
+    margin: 20px auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.canvas-container {
+    display: flex;
+    justify-content: center;
+}
+
+canvas {
+    border: 2px solid black;
+    background-color: #f9f9f9;
+}
